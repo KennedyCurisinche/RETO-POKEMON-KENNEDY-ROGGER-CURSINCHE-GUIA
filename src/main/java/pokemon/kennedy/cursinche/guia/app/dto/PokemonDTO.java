@@ -4,9 +4,10 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
- @NoArgsConstructor
+@NoArgsConstructor
 public class PokemonDTO {
-	
-	private String name;
-	
+
+    private String name;
+    private String url;
+
 }

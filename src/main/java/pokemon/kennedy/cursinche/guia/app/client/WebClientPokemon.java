@@ -1,4 +1,4 @@
-package pokemon.kennedy.cursinche.guia.app.service;
+package pokemon.kennedy.cursinche.guia.app.client;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
